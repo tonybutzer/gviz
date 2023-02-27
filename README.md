@@ -36,3 +36,10 @@ Issues:
 1. Devops machine overwelmed no prompt at login. Possible security scann overwelm on underpowered machine.
 	- WORKAROUND - - use ws aws until a bigger machine can be provisioned
 	- provision a bigger machine
+
+## Superset Technical Journey
+
+### Docker Compose
+
+- ref
+	- https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/
