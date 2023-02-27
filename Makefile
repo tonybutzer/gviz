@@ -5,5 +5,5 @@ cat:
 publish:
 	cat ~/token.txt
 	git add .
-	git commit -m "Makefile commit NOV-2022"
+	git commit -m "Makefile commit Mar-2023"
 	git push
