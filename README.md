@@ -7,10 +7,10 @@ gaaspy viz
 - evaluate superset as a tool for visualizations and contrast that to python with panel
 
 ## Panel vs. Superset Tradeoffs
-- panel alows complet customization
+- panel allows complete customization
 - superset has a huge open source foundation.
 - superset is used and recommended by IARPA teams
-- penel leverages EROS work to date
+- panel leverages EROS work to date
 
 ## Introduction
 This repo is part of a set of python code and/or tools for visualizing test and evaluation or quality assurance work done by the USGS. We will start with relative geometric outputs (GAASPY) and use that as a model for other visualizations.
